@@ -212,9 +212,9 @@ mysqli_close($conn);
               
           <h2 style="margin-top:10px;">Address</h2>
 
-          Université M'hamed Bougara - Faculté des sciences <br>
-    Boumerdes Street<br>
-    55 Road-Algeria<br>
+          Université Houari Boumedien - Faculté informatique <br>
+    Bab Ezzouar<br>
+    Algeria<br>
     Phone:&nbsp;+213 982308080<br>
     Email:&nbsp;infolimose@entreprisw.com<br>
     Website:&nbsp;www.Limose-Laboratory.com<br>
